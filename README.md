@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 05/06/26
+### DATE: 08/06/26
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,10 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-<img width="1536" height="958" alt="WhatsApp Image 2026-06-05 at 9 18 24 PM" src="https://github.com/user-attachments/assets/fddb2cf8-d7d7-4f6b-9b00-9f7ce07b6a89" />
-<img width="1536" height="959" alt="WhatsApp Image 2026-06-05 at 9 21 28 PM" src="https://github.com/user-attachments/assets/5a651b55-2355-4190-89cf-9776e9a30a0b" />
+<img width="1919" height="1199" alt="base pic" src="https://github.com/user-attachments/assets/bbe1da26-3b52-4f30-972d-aa6596e67003" />
+<img width="1919" height="1199" alt="base cura slice pic" src="https://github.com/user-attachments/assets/0520acbe-0b0d-49d0-a8a1-76086b29e3ac" />
 
-### Name: Vinuthaa NN
+### Name:  VINUTHAA NN
 ### Register Number: 212224040362
 
 ## RESULT:
